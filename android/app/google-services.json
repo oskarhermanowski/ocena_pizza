@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70398104383",
+    "project_id": "ocena-pizza",
+    "storage_bucket": "ocena-pizza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70398104383:android:364a1e21a723b4f68ab98a",
+        "android_client_info": {
+          "package_name": "com.oskarhermanowski.ocena_pizza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABRZpg9pGfrwNiYh02sc2tLDEiFeTok2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
