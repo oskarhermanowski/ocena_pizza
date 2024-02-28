@@ -103,5 +103,3 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 }
-// stateful widget dokonczony w calosci
-// teraz nie zaczeta "rejestracja"
