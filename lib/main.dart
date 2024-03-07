@@ -51,3 +51,4 @@ class RootPage extends StatelessWidget {
 //pasy XD
 //oskar.hermanowski@gmail.com
 //123456
+// lekcja "co to jest state?" skonczona esz
